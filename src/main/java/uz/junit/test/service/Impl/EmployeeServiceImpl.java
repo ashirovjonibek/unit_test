@@ -1,10 +1,10 @@
-package uz.junit.test.Service.Impl;
+package uz.junit.test.service.Impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import uz.junit.test.Model.Employee;
-import uz.junit.test.Repository.EmployeeRepository;
-import uz.junit.test.Service.EmployeeService;
+import uz.junit.test.entity.Employee;
+import uz.junit.test.repository.EmployeeRepository;
+import uz.junit.test.service.EmployeeService;
 
 import java.util.List;
 import java.util.Optional;

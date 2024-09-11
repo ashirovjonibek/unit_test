@@ -5,9 +5,9 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-import uz.junit.test.Model.Employee;
-import uz.junit.test.Repository.EmployeeRepository;
-import uz.junit.test.Service.Impl.EmployeeServiceImpl;
+import uz.junit.test.entity.Employee;
+import uz.junit.test.repository.EmployeeRepository;
+import uz.junit.test.service.Impl.EmployeeServiceImpl;
 
 import java.util.List;
 import java.util.Optional;

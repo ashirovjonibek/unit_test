@@ -1,4 +1,4 @@
-package uz.junit.test.Model;
+package uz.junit.test.entity;
 import jakarta.persistence.*;
 import lombok.*;
 

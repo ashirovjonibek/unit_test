@@ -1,4 +1,4 @@
-package uz.junit.test.Repository;
+package uz.junit.test.repository;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.*;
@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.test.annotation.Rollback;
-import uz.junit.test.Model.Employee;
+import uz.junit.test.entity.Employee;
 
 import java.util.List;
 import java.util.Optional;

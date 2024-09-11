@@ -1,6 +1,6 @@
-package uz.junit.test.Service;
+package uz.junit.test.service;
 
-import uz.junit.test.Model.Employee;
+import uz.junit.test.entity.Employee;
 
 import java.util.List;
 import java.util.Optional;

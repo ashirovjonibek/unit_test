@@ -1,7 +1,7 @@
-package uz.junit.test.Repository;
+package uz.junit.test.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import uz.junit.test.Model.Employee;
+import uz.junit.test.entity.Employee;
 
 import java.util.Optional;
 

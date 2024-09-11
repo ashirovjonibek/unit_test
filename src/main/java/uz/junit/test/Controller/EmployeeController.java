@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import uz.junit.test.Model.Employee;
-import uz.junit.test.Service.EmployeeService;
+import uz.junit.test.entity.Employee;
+import uz.junit.test.service.EmployeeService;
 
 import java.util.List;
 import java.util.Optional;

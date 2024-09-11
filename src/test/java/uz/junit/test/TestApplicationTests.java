@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.springframework.boot.test.context.SpringBootTest;
-import uz.junit.test.Repository.EmployeeRepositoryUnitTests;
+import uz.junit.test.repository.EmployeeRepositoryUnitTests;
 import uz.junit.test.controller.EmployeeControllerUnitTests;
 import uz.junit.test.service.EmployeeServiceUnitTests;
 

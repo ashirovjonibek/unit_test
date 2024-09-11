@@ -8,8 +8,8 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.ResultActions;
 import uz.junit.test.Controller.EmployeeController;
-import uz.junit.test.Model.Employee;
-import uz.junit.test.Service.EmployeeService;
+import uz.junit.test.entity.Employee;
+import uz.junit.test.service.EmployeeService;
 
 import java.util.ArrayList;
 import java.util.List;
